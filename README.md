@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hamza Rizkioui</h2>
   <p>Frontend Developer · Morocco</p>
-  <p>Passionate about building fast, clean, and user-focused web experiences.<br>Currently studying at <strong>1337 School</strong>.</p>
+  <p>Passionate about building fast, clean, and user-focused web experiences.<br><strong>1337 School</strong>.</p>
 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hamzariz2)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkiouih)
