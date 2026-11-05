@@ -14,7 +14,7 @@
 <a href="https://twitter.com/hamzariz2">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="mailto:hrizkiou@student.1337.ma">
+<a href="mailto:hamzarizkioui@hotmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
